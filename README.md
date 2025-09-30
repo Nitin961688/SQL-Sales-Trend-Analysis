@@ -43,7 +43,7 @@ How to apply window functions for cumulative totals and comparisons
 
 How to generate insights for business decision-making
 
-## 📂 Repository Structure
+#📂 Repository Structure
 sales-trend-analysis/
 │── ORDERS (2).csv    # Sample dataset
 │── MONTHLY SALES QUERY.sql    # SQL queries
